@@ -1,0 +1,2 @@
+# Unbeatable Tic Tac Toe
+ To create an unbeatable Tic Tac Toe program in C++, implement the MiniMax algorithm, which recursively analyzes possible moves to determine the optimal move for the computer player, ensuring a win or a draw in every game. The algorithm should consider both offensive moves to win and defensive moves to prevent the opponent from winning, and the game should continue until a win or a draw is achieved.
